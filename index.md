@@ -4,5 +4,4 @@ DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-base
 
 ### Raw Dataset
 
-Raw Dataset Can Be Found Here: https://github.com/ICSE2022-DeepTraLog/DeepTraLog/tree/main/TraceLogData
-
+Raw Dataset Can Be Found Here: <a href="https://github.com/ICSE2022-DeepTraLog/DeepTraLog/tree/main/TraceLogData/">Raw Dataset</a>
