@@ -6,6 +6,12 @@ DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-base
 
 Raw Dataset can be found here: <a href="https://github.com/DeepTraLog/DeepTraLog/tree/main/TraceLogData">Raw Dataset</a>
 
+Log and Span Data related to every error is compressed respectively, you can find the corresponding data in `F*.zip`. The normal data can be found in `normal` folder. All logs, including normal and abnormal ones, is compressed into `alllog.log.zip`, you can run log template extraction on it directly. 
+
+### Processed Graph Data
+
+Processed graph data based on the above raw dataset can be found here: <a href="https://github.com/DeepTraLog/DeepTraLog/tree/main/GraphData">Graph Data</a>
+
 ### Results
 
-The experimental results can be found here:  <a href="https://github.com/DeepTraLog/DeepTraLog/tree/main/results">Experimental Results</a>
+All the experimental results, including DeepTraLog‘s and comparison methods', can be found here:  <a href="https://github.com/DeepTraLog/DeepTraLog/tree/main/results">Experimental Results</a>
