@@ -1,0 +1,2 @@
+pytorch==1.8.0
+pytorch_geometric==1.6.1
